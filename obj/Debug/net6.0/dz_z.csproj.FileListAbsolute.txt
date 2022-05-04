@@ -1,0 +1,15 @@
+/Users/zaza/Desktop/лекция пример/dz_z/bin/Debug/net6.0/dz_z
+/Users/zaza/Desktop/лекция пример/dz_z/bin/Debug/net6.0/dz_z.deps.json
+/Users/zaza/Desktop/лекция пример/dz_z/bin/Debug/net6.0/dz_z.runtimeconfig.json
+/Users/zaza/Desktop/лекция пример/dz_z/bin/Debug/net6.0/dz_z.dll
+/Users/zaza/Desktop/лекция пример/dz_z/bin/Debug/net6.0/dz_z.pdb
+/Users/zaza/Desktop/лекция пример/dz_z/obj/Debug/net6.0/dz_z.csproj.AssemblyReference.cache
+/Users/zaza/Desktop/лекция пример/dz_z/obj/Debug/net6.0/dz_z.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zaza/Desktop/лекция пример/dz_z/obj/Debug/net6.0/dz_z.AssemblyInfoInputs.cache
+/Users/zaza/Desktop/лекция пример/dz_z/obj/Debug/net6.0/dz_z.AssemblyInfo.cs
+/Users/zaza/Desktop/лекция пример/dz_z/obj/Debug/net6.0/dz_z.csproj.CoreCompileInputs.cache
+/Users/zaza/Desktop/лекция пример/dz_z/obj/Debug/net6.0/dz_z.dll
+/Users/zaza/Desktop/лекция пример/dz_z/obj/Debug/net6.0/refint/dz_z.dll
+/Users/zaza/Desktop/лекция пример/dz_z/obj/Debug/net6.0/dz_z.pdb
+/Users/zaza/Desktop/лекция пример/dz_z/obj/Debug/net6.0/dz_z.genruntimeconfig.cache
+/Users/zaza/Desktop/лекция пример/dz_z/obj/Debug/net6.0/ref/dz_z.dll
